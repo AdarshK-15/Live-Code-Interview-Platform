@@ -25,16 +25,3 @@ A real-time, low-latency collaborative coding room and technical interview works
 \- \*\*Backend:\*\* Python 3, FastAPI, Uvicorn (ASGI), Native WebSockets (`asyncio`)
 
 \- \*\*Frontend:\*\* Vanilla JavaScript (ES6+), Microsoft Monaco Editor API, Tailwind CSS, HTML5
-
-
-
-\## Quick Start
-
-1\. Clone the repository:
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/](https://github.com/)<your-username>/Live-Code-Interview-Platform.git
-
-&#x20;  cd Live-Code-Interview-Platform
-
